@@ -1,0 +1,38 @@
+Titulo: Pedido por telefono (Don colmado)
+Subtitulo: 135 productos - $30,000
+Ultimo: ID pedido #123
+
+Columna derecha:
+
+Hora (Alineada con el titulo)
+Estado del pedido (Alineado id)
+
+Domicilios:
+
+	Fecha
+	Lat, Long
+	Estado
+	ID
+	tipo
+	ID_tendero
+	tiempo de entrega
+	dirección
+	sub total
+	costo de envio
+	con cuanto paga el cliente
+	total
+	
+
+	Producto (Arreglo):
+		cantidad
+		nombre
+		precio unidad
+		
+
+	Cliente:
+		Nombre
+		Dirección
+		Telefono
+		Correo (Opcional)
+		Comentario (Opcional)
+
